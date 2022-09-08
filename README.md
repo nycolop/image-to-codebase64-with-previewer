@@ -1,5 +1,5 @@
 # Image to Codebase64 and instant image previewer
-## [You can see this project here](https://necogamy.github.io/image-to-codebase64-with-previewer/)
+## [You can see this project here](https://nycolop.github.io/image-to-codebase64-with-previewer/)
 
 ## **Overview**
 ![screenshot](./screenshot.png)
